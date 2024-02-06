@@ -1,1 +1,0 @@
-This is sample project for uno platform development
